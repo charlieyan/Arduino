@@ -6,9 +6,9 @@
 //#define OV7725_CAM
 //#define OV7670_CAM
 //#define OV7675_CAM
-#define OV2640_CAM
+// #define OV2640_CAM
 //#define OV3640_CAM
-//#define OV5642_CAM
+#define OV5642_CAM
 //#define OV5642_CAM_BIT_ROTATION_FIXED
 //#define MT9D111_CAM
 //#define MT9M112_CAM
